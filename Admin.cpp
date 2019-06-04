@@ -17,3 +17,5 @@ void Admin::setPass(string PA)
 {
 	this->sPassword = PA;
 }
+
+nguyen van thai.
