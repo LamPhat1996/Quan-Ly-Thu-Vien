@@ -1,0 +1,14 @@
+1,GV1,Nguyen Van A,ke Toan,12,5,1980,Q.BT,0123456789
+1,GV2,Nguyen Van B,Kinh Doanh,12,5,1972,Q.10,023456789
+1,GV3,Nguyen Van C,Thu Ky Truong,24,4,1990,Q.8,03456789
+2,SV1,Nguyen Van D,Co Khi,22,5,1986,20
+2,SV2,Nguyen Van E,CNTT,2,5,2001,20
+2,SV3,Nguyen Van F,Anh Van,22,3,2001,20
+1,GV4,Nguyen Van G,MMT,5,5,2018,TT3,54352132e2
+1,GV5,Nguyen Van H,Quan Thu,29,5,2008,Quan 1,0434434343
+1,GV6,Nguyen Van Y,Dien,29,5,2007,Quan 2,04341232121
+1,GV7,Nguyen Van K,Giao Duc Quoc Phong,31,5,2006,Quan3,09595959595
+2,SV4,Nguyen Van L,CNTT,31,5,2003,10
+1,GV8,Nguyen Van M,CNTT,17,6,2002,Quan 4,0123456789
+1,GV9,Nguyen Van N,MMT,17,6,2001,Quan 5,0565657567
+2,SV5,Nguyen Van P,Co Khi,17,6,1975,20
